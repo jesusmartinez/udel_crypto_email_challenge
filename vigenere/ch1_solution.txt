@@ -1,0 +1,38 @@
+Solution for Vigenere consisted of the following steps:
+
+1) Follow recommendation of Module 1 Part 3 by analysing
+a given encoded text.
+    - Calculate its frequencies by a given Key Length
+    - Key length is arbitrary is just a guess
+    - Multiply frequencies by normal frequencies
+File: part3_lesson1_problem.py
+2) Loop from Key length 5 to 15
+    - For all 5 given encoded texts, run file vigenere.py
+    - Results produced different Key calculations which
+    actually give a pseudo decoded text which doesn't look like english
+    - However from all 5 emails. Number 1 gives a hint because
+        - Key generated first was size 7 but we passed Key Length = 10
+        - Key decoded some syllables similar to english
+3) Improve algorithm above for email 1
+    - It was observed that not all guesses in key approached to 0.065.
+    For some of them it was less than the 0.005 threshold
+    - So for those guesses I picked the highest value
+Files: part3_lesson1_problem.py and vigenere2.py
+
+How to verify:
+    - Run vigenere2.py
+    It reads file ch1 encoded from email 1 and decodes it
+
+Here the spaced text:
+TRULY TO ENJOY BODILY WARMTH SOME SMALL PART OF YOU MUST BE COLD
+FOR THERE IS NO QUALITY IN THIS WORLD THAT IS NOT WHAT IT IS MERELY
+BY CONTRAST NOTHING EXISTS IN ITSELF WE SHOULD REGRET OUR MISTAKES
+AND LEARN FROM THEM BUT NEVER CARRY THEM FORWARD INTO THE FUTURE
+WITH US OH FRIEND JOHN IT IS A STRANGE WORLD AS AD WORLD A WORLD
+FULL OF MISERIES AND WOES AND TROUBLES AND YET WHEN KING LAUGH COME
+HE MAKE THEM ALL DANCE TO THE TUNE HE PLAY IT SEEMS TO ME NO WIFI
+WAS TO FIND FATHER AT HOME TONIGHT I SHOULD BE HAVE DIFFERENT BUT
+THERE S NO KNOWING PERHAPS NOTHING UD BE A LESSON TO US IF IT
+DIDN’T COME TOO LATE ALL THINGS ARE READY I FOUR MINDS BE SO SHE
+INDULGED IN MELANCHOLY THAT CHEAPEST AND MOST ACCESSIBLE OF LUXURIES
+DESPAIR HAS ITS OWN CALMS
