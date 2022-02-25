@@ -2,6 +2,15 @@
 - Has 26! posible keys, whereas Caesar is only 26
 abcdefghijklmnopqrstuvwxz - 26 -letters
 
+#Playfair 
+- It has no j's replaced by i's
+- lot of x's. They represent the end of the lines
+
+#Hill 2x2
+- Not .065
+- 2-letter combination  
+
+
 $ cat ch1 | sed 's;.;&=;g' | tr '=' '\012' | sort | uniq -c | sort -rn
 
 ch1 26 <--

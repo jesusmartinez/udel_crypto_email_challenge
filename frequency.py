@@ -1,3 +1,5 @@
+# Andy frequency function
+
 def getfreq(loweronly):
     frequency = {}
     for ascii in range(ord('a'), ord('a') + 26):

@@ -31,10 +31,10 @@ def vigenere(raw):
     key = [random.randint(1,25) for i in range(random.randint(10,20))]
     secret = "".join([shiftEnc(raw[i], key[i % len(key)]) for i in range(len(raw))])
     return secret, key
-vigenere("attackatdawn")
+#vigenere("attackatdawn")
 def col_trans(plain):
     cols = random.randint(8,10)
-    key = range(cols)
+    key = list(range(cols))
     random.shuffle(key)
     return "".join(plain[i::cols].lower() for i in key), key
 
