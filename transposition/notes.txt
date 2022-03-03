@@ -1,0 +1,108 @@
+# 0.8461538461538461
+real = [2, 7, 9, 0, 6, 5, 8, 3, 1, 4]
+
+
+
+# 0.8461538461538461
+real =                             [2, 7, 9, 0, 6, 5, 8, 3, 1, 4]
+High: 0.8461538461538461[3229455] for (8, 9, 0, 6, 3, 2, 1, 7, 4, 5)
+                                      [2, 7, 9, 0, 6, 5, 8, 3, 1, 4]
+High: 0.7692307692307692[18144]   for (0, 1, 5, 7, 3, 4, 2, 9, 6, 8)
+real =                               [2, 7, 9, 0, 6, 5, 8, 3, 1, 4]
+High: 0.9230769230769231[867093] for (2, 4, 6, 0, 3, 9, 5, 7, 1, 8)
+
+------
+Mail 2
+8 cols
+9 cols
+High: 0.3049645390070922[188657] for (4, 6, 3, 0, 1, 8, 7, 5, 2)
+moffbyglbeioonanllfudjoljbaumjbilojklojodmdjmnokidobamepfjantjoslfhduojklvylfbvljbanokeoflalnovaalofddyoljuaomhhfbandppfhsbddjdlmofllusjjmqmo
+
+Mail 3
+8 cols
+High: 0.3141592920353983[33047] for (6, 3, 7, 2, 4, 1, 5, 0)
+aseayinypgxkrzpwfpkyktyaworcoklvknbauptevuxhpgbqsukmydgxqqhimsccumanxvxcpggzskfxutqarxscqfxfcqkussdordnxggkpggcwfdpupwikkpwhdrynullanecvkpkwknffyfvgojpwijundmgszgqxypkgseospmykclgwomqsqobcunllnwhavraplkpxhffaqsvgvlgxscqvcjlgwgwkvwtmhinxlyibqnvwxvpknxyjqegcooxlgwwpeuukxspnywnpuqobkwuegxvgtghedccnbgnwdaoccobeiupkcacybykgypwugcorypnxwkgkusxsbysjnaxazukncuakwbguphzvmjcglwepdwvmkbplpepkgugighwnagewjqpymzckuvgksrpxmpulgnwiteqqbrgfxpnwhonocfkiskwkshqrttgn
+9 cols
+High: 0.3003663003663004[50793] for (1, 3, 0, 6, 5, 2, 4, 7, 8)
+xnczwbdkwcakkgkgpmpnieaurkkswpazfguakeqptmdcygidemmpxwcgfbkwynajocfcbwusvtdubyptyrdghkkhuwrkxlassupgqxfsqsjgkgnwrmgtkagcfpmnifwedroglxlmksrqfnxcogsvupxzzkjtkykcpniqgkboqyvglpjwvdowpqphqsslgypvcownwbgghncjiawsxhopyvksosylwlusxvpnnnkakqykvpaadqulnxuvcejgpppmbubywukwythxgcwcb
+10 cols
+High: 0.3049792531120332[1778064] for (4, 9, 0, 7, 5, 2, 8, 1, 6, 3)
+jicynogxrupzqoabwnbyogknlkkoghpauvhvwbahndwpwokvqnzhhiaskckulculrppxvyqvlbisnodnewrngwiqfywgjxmpogfxsncqibkxpkkxhxtfswaencyslzfpagexsluupmxgnvdupefuapptkkypkgdcrponaakdkgbelprbtevwvuacpmbfgppkkgywmgfgqmhmyqjncwuxwxnuxbxexngsgnskcsgzucqmwqmaswqckkwpctkwwqocdyrpbjldgrkfxhrpckfgeuxgpwicgjswwldgcbxjuulwuvjccxkxyaksksfnpiiuvgokrnbtimueknvggazlspjhypkuauokofpnnwpscrgqbbsgqxqevcpsuslgwtwghnvnmpgwlgpaegctfpqeilwcvkgagvonqycgyfkewnwcveygtkhxxkumlyisnfpqvpxjqukcndyupmyvgqokoyazgswhkoutuy
+
+Mail 4
+8 cols
+High: 0.3980263157894737[5240] for (1, 0, 3, 6, 4, 5, 7, 2)
+dfedelsrabsftcgfupppqefsayegsewdsvhguhkdakdxrppmnetdqhihfkhkphkvqimreaiopmasoltdgecplhdlrkieapdkaafipobaqshtdmucrihdoeydhlvriurligpamdodmefalxnmrdciqfhfipdbdgggenhulfdmcpandcmfpnzsasaxhuvbuaorymfdeuipahravregtoihaoltbpphesohmghkickredpistysoammibvfdeepmrliyaivmpvhpyekiohdfxdppofteininddhonskpshreutptmyu
+9 cols
+High: 0.43262411347517726[246705] for (6, 0, 8, 4, 7, 5, 1, 3, 2)
+bspminfdocupmedyaetvuhqkapseshukahrinaqmflpeqhekppoagolsrmaiaeplqudgrdoehxidifmpmglnrfqpicdneslucadmpuahhruoyoepasvgtcadbteambieersaopiydomxy
+10 cols
+High: 0.3873626373626373[2503804] for (6, 9, 0, 7, 4, 1, 5, 3, 8, 2)
+cemkaafrybpaimpmeveiyiytraofeactxbvbhcogheadiukmridmpifdnneepfsfhssbuskonhmxhifudbidpharamiytdmyvvuplmmrqaepspaghitoshkfefstpppnuhaeycahondhrksofdnrmpdgqiieghfsetidpmldoaqfufymepgfszpidpwaovessvghxgyolkddlfrdfggiappddratgxqepinmniqhfdoldkphxprrckroopnvohhusrfkisuoppieasiymlmdlmmrupgvlehldersreklqgokhiipoiavdfpameeestfhlwgcidchcdbfdkddinpdtrvdapalashtbathuiedhtyh
+
+Mail 5
+8 cols
+High: 0.4736842105263158[14106] for (2, 6, 4, 3, 7, 5, 1, 0)
+tanontsheicgonwalrpuotlunebtgohwsumsrvweayonssawgyeohaoonanwgemsoigaforoystlikbngfneifwitihiryrstnanaferretenymalrwtrltotanyonnnvtuctbystitnhlsntideieiykofiusinbsmiiilputsfagetnwbyeaskgstialmohgmlbfwoeasetolaopindtisehipihotsnhbnotuetiobvoitohouwaheteenslkienonsaomauseerlorkrnrphehheuhpsluottbedulrdcase
+9 cols
+High: 0.475177304964539[29025] for (0, 6, 7, 2, 8, 4, 3, 5, 1)
+nsheorkppcswnpolgbahumuwtowaseeonnwmogorwtsbanowlhnreaieitsmnwrtenantuoyytnscdsinfniemylisneibpsfttmymkwisollioieiaonhstpitobhuaoeilonhaeukro
+10 cols
+High: 0.5[1270046] for (3, 5, 4, 9, 8, 7, 1, 2, 0, 6)
+cagnyaalryinockewtfwilgbyponmiillaelgbouriiherhetmakeorwnpnstoshysaappriretoatnobevglnurtwrmosoatgishsorontlvthorgtbegsftnkanahwoueothouhpirstttkalwvhuersihbthelnimenoouwswdtattonvnndoyoendwewguesotayhadshttooebsalisedinyatineueofriwrditipremesthilonohssuraunevewbebyanlbsstaattyottumayheemanoonwecwlisissonlononmisnhgeikessoifytrnofiaaehinosutyitglinpuhtoffinuhet
+
+
+Mail 5 - 10 cols, loop_size = 1000
+High: 0.5054945054945055[43537] for (0, 2, 1, 7, 5, 9, 6, 4, 8, 3)
+make
+nyaigrnychckewolwilgfaponmynllaeitbourgbherhiimaketlwnpnrioshyteappraoetoarsobevnsnurtlimosortgishtgrontowthorvabegstsnkantlwouehghouhtfrsttiaalwvkoersiupthelbtmenoihwswduhttonanndoynondweetuesogvyhadaottoohwsalibtdinyesineutefriwositipdamesteelonoirsurasrevewnhbyanehsstabutyottbmayhulmanoeawecwntsissielononoisnhmlikeseoifytonofianghinoestyiturinpulaoffitshetaug
+High: 0.510989010989011[2086101] for (5, 7, 6, 9, 2, 1, 3, 4, 8, 0)
+best
+ionagneaclwlanocgoutfwmerbypeakiilrnplgbhshiiheppetmntoorwybestorursaaaosirevistnotonglnohowrmhegatgtkasorroulvtsougtbnstftnelwahwhrsoththepirventkaiswhueltohbtodonimddwouwnestatyhavnnetooenoalwgudintayoneshtiriebsytiseduesatiwoneofpurrditveremoyahilasthsswyounenaybebaanlbstecatthistumooneemwsnonwskelisofyonlhfinmisingeityisoianprnooffaehtetsutuyygliirkhtoalinuh
+High: 0.5192307692307692[2539601] for (6, 9, 8, 7, 1, 3, 2, 0, 5, 4)
+nllaionpwctbouwfbhergyimakmilwnpegioshrieapphtoetoersobentsnuryaimosrrtgisangronvlwthotrabegotsnkaholwoutvghourtfrststaalwnhoersetpthehitmentkhwswvuhttoibnndoliondwoutuesdavyhannottoyewsalegtdinoasinedhefriobsitiieamesytelonuorsurwdrevepehbyatihsstosutyoanbmaywelmannbawecattsistuelonheoisnonlikewioifysnnofiomghinhestyisorinptnaoffaeshetougayytlherkutnlliiugnaoac
+
+
+Mail 5 - 10 cols, loop_size = 1000000,, start = 1
+High: 0.5137362637362637[42633] for (0, 2, 1, 6, 4, 5, 7, 8, 9, 3)
+make, toast-to, be,
+nyairhytucckewlnwilgagponmnollaetfbourbyherhiimakelgwnpniioshyetapproretoastobevsanurtirmosotngishglrontwrthoratbegssonkanlvwouegthouhftrsttahalwvotersipitheltkmenohuwswdhbttonnindoyoundwetauesovnyhadoettoowgsalitadinyshineuebfriwseitipatmesteolonordsurareevewhibyanhssstauntyotbemayhlbmanoatwecwtusisseelonoonisnhliikesonifytnmofiagehinosotyitrninpuaeoffisuhetagl
+High: 0.5192307692307692[42873] for (0, 2, 1, 6, 7, 4, 5, 8, 9, 3)
+make
+nyailnyrucckewagwilgnoponmtfllaebybouriiherhlgmakeiiwnpnetoshyorapprstetoasaobevirnurttnmosoglgishwrrontatthorsobegslvnkangtwouefthouhahrsttotalwvpiersitkthelhumenohbwswdnittonoundoytandwevnuesooeyhadwgttootasalishdinyebineusefriwatitipeomestrdlonoresurahievewhsbyanunsstabetyotlbmayhatmanotuwecweesissonlonoliisnhonikesnmifytgeofiasohinorntyitaeinpusuoffiglhetaht
+Mail 5 - 10 cols, loop_size = 1000000, start = 1000000
+High: 0.5137362637362637[1024862] for (2, 8, 4, 3, 5, 6, 7, 1, 0, 9)
+cgnkerhnaaiocillwfwonagyplanmiloutegberbrihakihtmnplerwshintoppeyaatoorrebesanoursvlnositrmistotgonghorhowtvtegartbkasstnoulnhwougethstfhirlwatkarsovuehepibtentlimswhouwtohdatdonnnndwoyenesteguhavoaytoodhtalwobsintiednesytirieuoftiswdiesapemonetilurrossveraneyahwebsthnbsyouattaybtumanlhemecaonwistwisonesnlsnoomikelheifyosoifintnoingaehyisoutnprtliffautoetsiuhyyg
+High: 0.5192307692307692[1267352] for (3, 5, 4, 6, 1, 2, 7, 8, 0, 9)
+crhnyaytuailnckewagwilgnoponmtfllaebybouriiherhlgmakeiiwnpnetoshyorapprstetoasaobevirnurttnmosoglgishwrrontatthorsobegslvnkangtwouefthouhahrsttotalwvpiersitkthelhumenohbwswdnittonoundoytandwevnuesooeyhadwgttootasalishdinyebineusefriwatitipeomestrdlonoresurahievewhsbyanunsstabetyotlbmayhatmanotuwecweesissonlonoliisnhonikesnmifytgeofiasohinorntyitaeinpusuoffiglhet
+Mail 5 - 10 cols, loop_size = 1000000, start = 2000000
+High: 0.5164835164835164[2043681] for (5, 6, 7, 3, 2, 8, 1, 4, 9, 0)
+east
+iailgnaelcwnonocgtlafwmbouypeierilrlakgbhinpiheeshtmnopprwystotorsbeaaaiurrevtosnotgislnowonrmhahotgtsegorrlkavtsgoutbnfoutneasthwholwthtprsirvthekaihenuelhswbtontoimdodouwntdwatyvesnneohaenowtogudtalayosinhtienebsysrieduatitiweesofpronditruremohveilahyasswustnenbyoebalaybstaantthtecumoeisemwoonnwslsnisookenlhnfymisgfieitsinoiaryinooanpehtsffutugetliihyytoanrkuh
+High: 0.5192307692307692[2188232] for (6, 0, 3, 2, 4, 5, 7, 8, 1, 9)
+best
+cckerhntuawiillnpwonaglglanobmoutfheerbymrakiiwhnplgoeshiianppeteytoororbestnaursamvosirgtistnroonglthhowrbtegatnrkasowsoulvhnougtrestftahlwahetrsottvhepimientkwlswhutotohbnddoninndwouuyestayehavntotooesdalwgdointaiineshfyriebiutisemwesatlponeosturrdeoverebayahiswsthstnyounmaaybemtanlbwhecatsoistulwoneeissnoniokeliihfyonosfinmhtingetayisoionprnotffaehuetsuaiyygl
+High: 0.5247252747252747[2420795] for (6, 7, 0, 3, 2, 4, 5, 9, 8, 1)
+wiillnnccupwonaglglanobmoutfheerbymrakiiwhnplgoeshiianppeteytoororbestnaursamvosirgtistnroonglthhowrbtegatnrkasowsoulvhnougtrestftahlwahetrsottvhepimientkwlswhutotohbnddoninndwouuyestayehavntotooesdalwgdointaiineshfyriebiutisemwesatlponeosturrdeoverebayahiswsthstnyounmaaybemtanlbwhecatsoistulwoneeissnoniokeliihfyonosfinmhtingetayisoionprnotffaehuetsuaiyyglearkht
+Mail 5 - 10 cols, loop_size = 1000000, start = 3000000
+High: 0.5192307692307692[3000240] for (8, 2, 4, 3, 0, 1, 5, 6, 7, 9)
+rhcketuinalnwiluagponcnollaitfbouwbyhergiimakmlgwnpeiioshretapphoretoestobensanuryirmosrtngisaglronvwrthotatbegosonkahlvwoutgthourftrstsahalwnotersepithehtkmenthuwswvhbttoinindoloundwotauesdvnyhanoettoywgsaletadinoshinedebfrioseitiiatmesyeolonurdsurwreevephibyathssstountyoabemaywlbmannatwecatusisteelonhonisnoliikewonifysnmofiogehinhsotyisrninptaeoffasuhetoglayyt
+High: 0.5247252747252747[3146555] for (8, 6, 0, 3, 2, 4, 5, 9, 7, 1)
+wiillnccnupwonaglglanobmoutfheerbymrakiiwhnplgoeshiianppeteytoororbestnaursamvosirgtistnroonglthhowrbtegatnrkasowsoulvhnougtrestftahlwahetrsottvhepimientkwlswhutotohbnddoninndwouuyestayehavntotooesdalwgdointaiineshfyriebiutisemwesatlponeosturrdeoverebayahiswsthstnyounmaaybemtanlbwhecatsoistulwoneeissnoniokeliihfyonosfinmhtingetayisoionprnotffaehuetsuaiyyglearkht
+
+High: 0.5247252747252747[2420795] for (6, 7, 0, 3, 2, 4, 5, 9, 8, 1)
+High: 0.5247252747252747[3146555] for (8, 6, 0, 3, 2, 4, 5, 9, 7, 1)
+
+--------------------------------------------------------------------------------
+Mail 5, brute force all combinations
+- 8 cols
+High: 0.49664429530201337[26655] for (5, 2, 0, 1, 6, 4, 7, 3)
+dhsaenutdusrwclnebnrswtbhloaepuetagnilcwatanibilieusthwpnoutimgerltoswmutowupoetensdnarlogehaehbusntooeevrwehnnryaocemynssoiagrnygwnqrawahstltvhanaaibtuegonanoriolrawhrofnsphtrsyearrrgkiihtasnfgiaientfisleteeitnsemhmyrrodwtrntenetvcfaagenirertoonloynoieuoerlytuydslrnettndatcoesydnosuadehtvnaeioybtnalfdniteigioulhyttminitiotlyaeindpsusokioyewpsupoebpisbfemsttiitnctoetuydamasgakndmwewniohwnnaeonwsaysglsaltdlaohoihhghefsioofbaseiwyaenmfosnotstohorpopttthwtdtniisahebhnotahiuprhaensoigaouoniwaetiteovhluevbhshniaoteoraaawukteuthteohfrfssnoiikoneiskeptssnlaihelamrocpmleehwnotoroeegenyrnseeriahetg
+- 9 cols
+High: 0.4848993288590604[181] for (0, 1, 2, 4, 6, 7, 3, 8, 5)
+nkoeluknhcpiegduyuwhodfhberppheatiorloeeoeudrbekopcaoghroetininmsouhneytwssthtgueonlenaawmaoraonhpreghetrbtcoaelvseornusgoataomuttwhowegtdttadnsrwdpsleadtseyesitdbehesoshhnntmannoywwacegewnhoiarobsurondritonawrhhtuhaestwheesstaeauontpmooobuiaiwluslanottnveaamteneyftieusnisoetoieuiytoonanysaildetytnanooufdsrernolohdeiggettoiaoasnueyftshrdcmniokhanitrmyfrsownwlnfegngiascifhsmeaesyinhewebnnegfrsusnfiosheiteecfmeiemyynytniamirgitytawnlegnrihsiatihasslpnntpvpniftbritnsitbetwoaliyiwavholokllrsthohiipnoreytoeeltsaailourhnqaoosttielrheslokhiraaibvataaentetovanlsgrtwipnnpwnhelrsatanteottubswigdioru
+- 10 cols
+High: 0.6073825503355705[40726] for (0, 2, 1, 3, 7, 5, 9, 8, 4, 6)
+nyayoungcockerelthatwillstanduponadunghillandcrowabouthisfatherbywayofmakinghisownplumagetoshinelifeappearstometooshorttobespentinnursinganimosityorregisteringwrongsatlasthoweverhebegantothinkasyouoriwouldhavethoughtatfirstforitisalwaysthepersonnotinthepredicamentwhoknowswhatoughttohavebeendoneinitandwouldunquestionablyhavedoneittooannewasalwaysgladinthehappinessofherfriendsbutitissometimesalittlelonelytobesurroundedeverywherebyahappinessthatisnotyourownwemaybravehumanlawsbutwecannotresistnaturalonesthereisnothinglikelookingifyouwanttofindsomethinghowemptyistheoryinpresenceoffactgermhetsia
+High: 0.6090604026845637[3306646] for (9, 1, 0, 2, 6, 4, 8, 7, 3, 5)
+thereismanyayoungcockerelthatwillstanduponadunghillandcrowabouthisfatherbywayofmakinghisownplumagetoshinelifeappearstometooshorttobespentinnursinganimosityorregisteringwrongsatlasthoweverhebegantothinkasyouoriwouldhavethoughtatfirstforitisalwaysthepersonnotinthepredicamentwhoknowswhatoughttohavebeendoneinitandwouldunquestionablyhavedoneittooannewasalwaysgladinthehappinessofherfriendsbutitissometimesalittlelonelytobesurroundedeverywherebyahappinessthatisnotyourownwemaybravehumanlawsbutwecannotresistnaturalonesthereisnothinglikelookingifyouwanttofindsomethinghowemptyistheoryinpresenceoffactg

@@ -1,0 +1,34 @@
+Solution for Column Transposition consisted of the following steps:
+1) Create a decoding function. File col_trans.py.
+2) After decoding function was tested successfully, I created a fitness function
+    The fitness function is located in fitness.py
+    function matches() checks how many words match from a string
+    match the top 100 words. Andy gave us this idea.
+    Then the function checks how many characters are left from those
+    matching words. The less remaining characters, the higher the score.
+3) It follows brute force for combinations of 8, 9 and 10 columns for the other
+    4 emails. From which I picked email number 5 since it was the one
+    which generated this frequency
+    # 0.06745191658033421
+    # print(getfreq(fetch_email.get_mail_2()))
+    # file frequency.py
+4) Brute force result came successfully for 10 columns combination
+    after 3,306,646 out of 3,628,800 iterations
+
+
+How to verify:
+    - Run transposition.py
+    It reads file ch5 encoded from email 5 and decodes it
+
+Here the spaced text:
+there is many a young cockerel that will stand up on a dung hill and
+crow about his father by way of making his own plumage to shine life
+appears to me too short to be spent innursing animosity or registering
+wrongs at last however he began to think as you or i would have thought
+at first for it is always the person not in the predicament who knows
+what ought to have been done in it and would unquestionably have done
+it to oanne was always gladin the happiness of her friends but it is
+some times a little lonely to be surrounded everywhere by a happiness
+that is not your own we may brave human laws but we cannot resist natural
+ones there is nothing like looking if you want to find something how
+empty is theory inpresence of fact g
