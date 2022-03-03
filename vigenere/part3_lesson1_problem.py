@@ -25,7 +25,7 @@ def analyse(text, keyLength):
                 caesar_guess = shiftBy(ltr, possible_key)
                 sum_f_sqr += normal_freqs[ltr]*frequency[caesar_guess] # IMPORTANT
             if abs(sum_f_sqr - .065) < .005:
-                # key.append(possible_key)
+                # key.append(possible_key)*
                 found = possible_key
                 # print("For subtext " + str(i) + " key is probably: ", possible_key, " f_sqr is ", sum_f_sqr)
             else:

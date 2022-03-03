@@ -1,0 +1,16 @@
+No solution found yet
+
+Steps:
+1) Create a decoding function. File alg.py
+2) Analyse frequencies of files for Email 2, 3 and 4
+    Check their frequencies are close to normal ones. These last ones are hardcoded for
+    letters, bigrams and trigrams.
+3) Find matching letters that follow the pattern where one letter appears in all three
+    frequencies, and then replace them
+4) Once done a matching for at least 10 letters, try to brute force the rest by using the fitness
+    function to verify it englishness value.
+
+Since this approach is not proved due to time constraint. It could not have been completed
+in time.
+
+File substitution.py obtains frequencies for a given text. Step 2.

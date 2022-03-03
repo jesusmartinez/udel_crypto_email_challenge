@@ -1,4 +1,4 @@
-from EmailChallenge import fetch_email
+import fetch_email
 from collections import Counter
 
 text = fetch_email.get_mail_2()
@@ -45,6 +45,25 @@ def analyse(text):
     print("Trigram Freq", str(dict(trigram_freq)))
     print("Normal  Freq", str(normal_trigram_freq))
 
+
+top = 5
+def check_top(letters, bigrams, trigrams):
+    matches_bi = []
+    matches_tri = []
+    g = [a for a, b in letters.items()]
+    for letter in g[:top]:
+        bi = [a for a, b in bigrams.items()]
+        for bigram in bi[:top]:
+            if letter in bigram and letter not in matches_bi:
+               matches_bi.append(letter)
+        tri = [a for a, b in trigrams.items()]
+        for trigram in tri[:top]:
+            if letter in trigram and letter not in matches_tri:
+                matches_tri.append(letter)
+
+    return matches_bi, matches_tri
+
+print(check_top(normal_freqs, normal_bigram_freq, normal_trigram_freq))
 
     # found = 0
     # sum_sqr_frequencies = {}
