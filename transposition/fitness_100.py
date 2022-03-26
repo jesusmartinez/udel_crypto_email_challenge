@@ -1,4 +1,4 @@
-from topWords import top_words,top_100_words
+from EmailChallenge.topWords import top_words,top_100_words
 
 def andy_fitness(text):
     text = text.lower()

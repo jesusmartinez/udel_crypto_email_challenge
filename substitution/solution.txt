@@ -1,0 +1,26 @@
+Steps:
+1) Create a decoding function. File alg.py
+    To test it individually, remove the commented lines and run it.
+2) Analyse frequencies of files for Email 2, 3 and 4
+    Check their frequencies are close to normal ones. These last ones are hardcoded for
+    letters, bigrams and trigrams.
+3) Find matching letters that follow the pattern where one letter appears in all three
+    frequencies, and then replace them
+4) Once done a matching for at least 10 letters, try to brute force the rest by using the fitness
+    function to verify it englishness value.
+5) Solution was performed manually after checking than most used frequencies matched to some hints.
+6) To prove it, run substitution.py
+File substitution.py obtains frequencies for a given text. Step 2.
+
+
+TEXT:
+I CONFESS THAT I HAVE BEEN AS BLIND AS A MOLE BUT IT IS BETTER TO LEARN
+WISDOM LATE THAN NEVER TO LEARN IT AT ALL NEVER FORGET WHAT YOU ARE FOR SURELY
+THE WORLD WILL NOT MAKE IT YOUR STRENGTH THEN IT CAN NEVER BE YOUR WEAKNESS
+ARMOR YOURSELF IN IT AND IT WILL NEVER BE USED TO HURT YOU NO ONE IS EVER TOO
+OLD TO DO A FOOLISH THING DO YOU KNOW ANYTHING ON EARTH WHICH HAS NOT A
+DANGEROUS SIDE IF IT IS MISHANDLED AND ExAGGERATED NO PLACE WORTH KNOWING
+YIELDS ITSELF AT SIGHT AND THOSE THE LEAST INVITING ON FIRST VIEW MAY LEAVE
+THE MOST HAUNTING PICTURES UPON THE WALLS OF MEMORY MORNING MADE A CONSIDERABLE
+DIFFERENCE IN MY GENERAL PROSPECT OF LIFE AND BRIGHTENED IT SO MUCH THAT IT
+SCARCELY SEEMED THE SAME IGNORANCE IS THE PARENT OF FEARx

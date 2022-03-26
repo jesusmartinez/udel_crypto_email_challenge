@@ -2,9 +2,10 @@ import itertools
 import math
 from col_trans import decode
 from fitness_100 import matches
-import fetch_email
+from EmailChallenge import fetch_email
 
 text = fetch_email.get_mail_5()
+
 
 def perm(cols, r, index):
     elems = list(itertools.permutations(range(cols), cols))

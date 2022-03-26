@@ -7,7 +7,7 @@ a given encoded text.
     - Multiply frequencies by normal frequencies
 File: part3_lesson1_problem.py
 2) Loop from Key length 5 to 15
-    - For all 5 given encoded texts, run file vigenere.py
+    - For all 5 given encoded texts, run file vigenere2.py
     - Results produced different Key calculations which
     actually give a pseudo decoded text which doesn't look like english
     - However from all 5 emails. Number 1 gives a hint because
